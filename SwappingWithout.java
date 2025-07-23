@@ -1,3 +1,11 @@
+/*
+ * File: SwappingWithout.java
+ * Description:
+ * This program swaps the values of two integers without using a third variable.
+ * It uses arithmetic operations (addition and subtraction) to perform the swap.
+ * Demonstrates variable manipulation and mathematical logic in Java.
+ */
+
 import java.util.*;
 public class SwappingWithout
 {
