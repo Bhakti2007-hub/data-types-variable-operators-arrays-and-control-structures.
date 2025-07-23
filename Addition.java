@@ -1,3 +1,11 @@
+/*
+ * File: Addition1.java
+ * Description:
+ * This program takes two integer inputs from the user using Scanner
+ * and calculates their sum. It demonstrates the use of variables,
+ * data types, input handling, and basic arithmetic operators in Java.
+ */
+
 import java.util.*;
 public class Addition1
 {
