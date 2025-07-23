@@ -1,3 +1,11 @@
+/*
+ * File: EvenOdd.java
+ * Description:
+ * This program takes an integer input from the user and checks
+ * whether it is even or odd using the modulus operator (%).
+ * It demonstrates conditional statements (if-else) and user input in Java.
+ */
+
 import java.util.*;
 public class EvenOdd
 {
