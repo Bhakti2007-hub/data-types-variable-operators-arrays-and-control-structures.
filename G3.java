@@ -1,3 +1,11 @@
+/*
+ * File: G3.java
+ * Description:
+ * This program takes three integer inputs from the user and determines
+ * the greatest among them using nested if-else statements.
+ * Demonstrates conditional logic and user input handling in Java.
+ */
+
 import java.util.*;
 public class G3
 {
