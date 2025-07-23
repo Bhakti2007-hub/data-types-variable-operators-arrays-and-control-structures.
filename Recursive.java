@@ -1,3 +1,9 @@
+/*
+ * File: Recursive.java
+ * Description:
+ * This program calculates the factorial of a number using recursion.
+ * It demonstrates recursive function calls, stack behavior, and user input in Java.
+ */
 import java.util.*;
 public class Recursive
 {
