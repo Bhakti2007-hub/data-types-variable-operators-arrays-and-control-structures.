@@ -1,3 +1,10 @@
+/*
+ * File: Reverse.java
+ * Description:
+ * This program takes a number `n` from the user and prints numbers from 1 to n,
+ * and then prints them in reverse from n to 1.
+ * Demonstrates use of for loops and control structures in Java.
+ */
 import java.util.*;
 public class Reverse
 {
