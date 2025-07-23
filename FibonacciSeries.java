@@ -1,3 +1,11 @@
+/*
+ * File: FibonacciSeries.java
+ * Description:
+ * This program generates and displays the Fibonacci series up to 'n' terms,
+ * where 'n' is entered by the user. It uses only int data types and a for loop.
+ * Demonstrates loop control, sequence logic, and user input in Java.
+ */
+
 import java.util.Scanner;
 
 public class FibonacciSeries 
