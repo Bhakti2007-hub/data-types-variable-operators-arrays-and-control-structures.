@@ -1,3 +1,11 @@
+/*
+ * File: Positive.java
+ * Description:
+ * This program takes an integer input from the user and checks
+ * whether the number is positive or negative using an if-else condition.
+ * Demonstrates basic decision-making in Java.
+ */
+
 import java.util.*;
 public class Positive
 {
