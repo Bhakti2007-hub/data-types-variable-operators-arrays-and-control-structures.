@@ -1,3 +1,10 @@
+/*
+ * File: Prime.java
+ * Description:
+ * This program checks whether the entered number is a prime number or not.
+ * It uses a for loop to test divisibility and prints the result.
+ * Demonstrates loops, conditions, and input handling in Java.
+ */
 import java.util.*;
 public class Prime
 {
