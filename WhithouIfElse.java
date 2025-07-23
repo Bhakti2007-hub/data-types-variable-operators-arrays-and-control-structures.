@@ -1,3 +1,11 @@
+/*
+ * File: WhithouIfElse.java
+ * Description:
+ * This program finds the greater of two numbers without using if-else,
+ * by using the ternary operator (? :).
+ * It demonstrates conditional expressions and user input handling in Java.
+ */
+
 import java.util.*;
 public class WhithouIfElse
 {
